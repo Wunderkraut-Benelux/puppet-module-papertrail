@@ -1,3 +1,6 @@
+This repo has been moved to Bitbucket.
+https://bitbucket.org/appno/puppet-module-papertrail/src/master/
+
 # Puppet Papertrail Module
 
 [![Build Status](https://travis-ci.org/bdossantos/puppet-module-papertrail.png?branch=master)](https://travis-ci.org/bdossantos/puppet-module-papertrail)
